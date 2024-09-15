@@ -9,7 +9,7 @@ This is a Flask-based API for calculating employee benefits. The API allows you 
     https://github.com/rohitratnu/benefits-calculator.git
     cd benefits-calculator
     ```
-    To avoid cloing unzip the project
+    To avoid cloning unzip the project
 
 2. Create a virtual environment and activate it:
     ```sh
