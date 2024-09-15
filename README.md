@@ -6,7 +6,7 @@ This is a Flask-based API for calculating employee benefits. The API allows you 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/flask_project.git
+    https://github.com/rohitratnu/benefits-calculator.git
     cd benefits-calculator
     ```
 
